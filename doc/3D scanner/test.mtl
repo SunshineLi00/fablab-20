@@ -1,0 +1,39 @@
+#
+# platform
+#
+# Materials for the file "test.obj"
+#
+
+
+newmtl ColorPerFace
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd testImageColorPerFace.png
+
+newmtl m1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd testImage1.png
+
+newmtl _1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd testImage_1.png
+
+newmtl default
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+
+# end of file

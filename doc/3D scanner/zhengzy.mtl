@@ -1,0 +1,31 @@
+#
+# platform
+#
+# Materials for the file "zhengzy.obj"
+#
+
+
+newmtl m1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd zhengzyImage1.png
+
+newmtl default
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+
+newmtl ColorPerFace
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd zhengzyImageColorPerFace.png
+
+# end of file
